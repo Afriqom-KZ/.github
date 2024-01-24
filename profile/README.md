@@ -5,4 +5,4 @@ Compte officiel de gestion des projets clients et open source d'Afriqom KZ
 
 Vous trouverez ici tous nos projets Open source ainsi que l'accès exclusif aux clients à leurs projets.
 
-Visitez notre site web [afriqomkz.com](https://afriqomkz.com) t!
+Visitez notre site web [afriqomkz.com](https://afriqomkz.com) !
